@@ -1,5 +1,8 @@
 #include "Zombie.hpp"
 
+Zombie::Zombie() : _name("") {
+}
+
 Zombie::Zombie(const std::string& name) : _name(name) {
 }
 
