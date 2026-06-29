@@ -4,8 +4,19 @@
 *.a
 *.o
 *.log
+*.pdf
 
+# Executables
 megaphone
 phonebook
+brainz
+moar-brainz
+hi-this-is-brain
+sed-is-for-losers
+harl
+my-first
+towards
+violence
 
-*.pdf
+# ex04 local test files
+cpp_module_01/ex04/test*
