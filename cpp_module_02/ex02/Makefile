@@ -1,4 +1,4 @@
-NAME = towards
+NAME = now
 
 SRCS = main.cpp \
 		Fixed.cpp

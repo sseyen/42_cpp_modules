@@ -11,29 +11,22 @@
 *.pdf
 
 # ── Executables ───────────────────────────────────────────
-# cpp_module_00
-**/ex00/megaphone
-**/ex01/phonebook
-
-# cpp_module_01
+# ex00
 **/ex00/brainz
+
+# ex01
 **/ex01/moar-brainz
+
+# ex02
 **/ex02/hi-this-is-brain
+
+# ex03
 **/ex03/hi-this-is-brain
+
+# ex04
 **/ex04/sed-is-for-losers
-cpp_module_01/ex04/test*
-cpp_module_01/ex04/*.replace
+ex04/test*
+ex04/*.replace
+
+# ex05
 **/ex05/harl
-
-# cpp_module_02
-**/ex00/my-first
-**/ex01/towards
-**/ex02/now
-
-# cpp_module_03
-**/ex00/claptrap
-**/ex01/scavtrap
-**/ex02/fragtrap
-
-# cpp_module_04
-**/ex[0-9][0-9]/ex[0-9][0-9]
